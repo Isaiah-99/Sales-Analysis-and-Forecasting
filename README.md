@@ -112,7 +112,7 @@ The project focused on analyzing and forecasting sales data to uncover critical 
 
 ## Conclusions
 - **Sales Analysis**: The project identified seasonal sales patterns, with January being the peak month and February the lowest-performing. High-demand product lines such as Food and Beverages drive revenue, while Fashion Accessories exhibit higher customer satisfaction.
-- ** Customer Behavior**: Female members contribute significantly to revenue, and cash remains the dominant payment method.
+- **Customer Behavior**: Female members contribute significantly to revenue, and cash remains the dominant payment method.
 - **Forecasting Accuracy**: The Prophet model provided reliable short-term sales forecasts, predicting a stable trend with occasional spikes.
 - **Employee Data Analysis**: The workforce analysis revealed strong correlations between tenure, job satisfaction, and performance, highlighting opportunities to improve engagement and productivity.
 
