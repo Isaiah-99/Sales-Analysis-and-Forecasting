@@ -112,28 +112,28 @@ The project focused on analyzing and forecasting sales data to uncover critical 
 
 ## Conclusions
 - **Sales Analysis**: The project identified seasonal sales patterns, with January being the peak month and February the lowest-performing. High-demand product lines such as Food and Beverages drive revenue, while Fashion Accessories exhibit higher customer satisfaction.
-**Customer Behavior**: Female members contribute significantly to revenue, and cash remains the dominant payment method.
-•**Forecasting Accuracy**: The Prophet model provided reliable short-term sales forecasts, predicting a stable trend with occasional spikes.
-•**Employee Data Analysis**: The workforce analysis revealed strong correlations between tenure, job satisfaction, and performance, highlighting opportunities to improve engagement and productivity.
+- ** Customer Behavior**: Female members contribute significantly to revenue, and cash remains the dominant payment method.
+- **Forecasting Accuracy**: The Prophet model provided reliable short-term sales forecasts, predicting a stable trend with occasional spikes.
+- **Employee Data Analysis**: The workforce analysis revealed strong correlations between tenure, job satisfaction, and performance, highlighting opportunities to improve engagement and productivity.
 
 ## Recommendations
-1.**Sales and Marketing**:
+1. **Sales and Marketing**:
 Increase marketing efforts during high-demand months, particularly January, to capitalize on seasonal sales trends.
 Focus on promoting profitable product lines like Food and Beverages while strategizing improvements for lower-margin items.
 Target marketing campaigns toward high-revenue demographics, such as female members.
 
-2.**Customer Satisfaction and Service**:
+2. **Customer Satisfaction and Service**:
 Improve product quality for underperforming categories such as Health and Beauty to boost customer satisfaction.
 Introduce loyalty programs to encourage Normal customers to become Members, driving repeat purchases.
 
-3.**Branch Performance and Expansion**:
+3. **Branch Performance and Expansion**:
 Expand operations in high-performing cities to capitalize on local market potential.
 Enhance customer experience at lower-rated branches to ensure consistent service quality.
 
-4.**Payment Strategies**:
+4. **Payment Strategies**:
 Promote digital payment options through discounts or incentives to diversify payment methods and streamline transactions.
 
-5.**Employee Development**:
+5. **Employee Development**:
 Conduct regular satisfaction surveys to monitor workforce engagement and address emerging concerns.
 Offer competitive compensation packages to retain top talent and improve employee satisfaction.
 Foster a culture of continuous learning through professional development programs to enhance skillsets and career growth.
