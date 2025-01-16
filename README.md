@@ -39,7 +39,7 @@ The Tableau dashboard visualizes key insights and trends from the sales data, pr
 4. **Payment Preferences**
 5. **Customer Satisfaction**
 
-*You can access the tableau dashboard file [here](https://github.com/Isaiah-99/Sales-Analysis-and-Forecasting/blob/main/Sales_Dashboard.twb)*
+*You can access the tableau dashboard file [here](https://drive.google.com/file/d/1DhHxD4uQu_4WUkHn0kQQjy6dnULYp9nc/view?usp=drive_link)*
 
 ![](Dashboard.jpg)
 
